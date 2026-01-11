@@ -6,8 +6,7 @@ This project demonstrates skills in **mechanical design, electronics integration
 ---
 
 ## 📷 Demo
-*(Add an image or GIF of the boat here — or a YouTube thumbnail link once you have video footage.)*
-
+Will be added soon!
 ---
 
 ## ✨ Features
@@ -24,6 +23,3 @@ This project demonstrates skills in **mechanical design, electronics integration
 - **Materials**: PLA, epoxy, fiberglass  
 
 ---
-
-📖 For detailed design notes, testing logs, and trade-off analysis, see the  
-👉 [Full Project Report](docs/DETAILS.md)  
