@@ -6,7 +6,7 @@ This project demonstrates **mechanical design, system integration, materials sel
 ---
 
 ## 📷 Demo
-Will be added soon!
+https://github.com/user-attachments/assets/1d287103-13f6-454d-b6a0-e449c8123bbb
 
 ---
 
